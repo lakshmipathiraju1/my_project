@@ -82,9 +82,7 @@ vi /opt/maven/apache-maven-3.6.3/conf
 </server>
 
 mvn deploy
-  
-  
-  
+ 
   
   Accessing SonarQube
 Nexus runs at port 9000, You can access Nexus at 
